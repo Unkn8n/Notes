@@ -30,21 +30,21 @@ Understanding these mechanisms is fundamental in engineering and physics educati
 
 Source: [https://engineeringlearn.com/what-is-lever-types-uses-principle-examples/](https://engineeringlearn.com/what-is-lever-types-uses-principle-examples/)
 
-### **Purpose of using a lever**
+### Purpose of using a lever
 
-### 1. Gain mechanical advantage (amplify force)
+#### 1. Gain mechanical advantage (amplify force)
 
 A lever multiplies force, allowing a small effort to move a larger load.
 
 Example: Using a crowbar to lift a heavy object; you push down a little, and the other end lifts something much heavier.
 
-### 2. Gain velocity ratio (increase motion or speed)
+#### 2. Gain velocity ratio (increase motion or speed)
 
 A lever can also make the output move farther or faster than the input.
 
 Example: When you swing the rod or reel in, the small movements of your hands make the tip of the rod move a much larger distance and faster.
 
-# **Types of levers**
+## Types of levers
 
 ### **Class 1 levers**
 
