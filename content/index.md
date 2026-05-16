@@ -1,1 +1,4 @@
-# Welcome to my Digital Garden 
+# Welcome
+[[EEP notes]]
+[[Interpreting Functions]]
+[[Programming notes]]
