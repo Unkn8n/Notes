@@ -1,0 +1,1 @@
+---\ntitle: Home\n---\n# Welcome to My Digital Garden\nYour system is now successfully linked!
