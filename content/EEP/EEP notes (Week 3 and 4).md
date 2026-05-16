@@ -16,25 +16,25 @@ Components of the Arduino UNO R3:
    - Vin/GND pins (7-12V with 9V battery)
 
 3. Power OUT
-   • for powering external components
-   • 5V and 3.3V pins (board regulated)
+   - for powering external components
+   - 5V and 3.3V pins (board regulated)
 
 4. Reset Button
-   • to reset/restart the program.
+   - to reset/restart the program.
 
 5. On-Board Built-In LED
-   • indicate that the Arduino board is receiving power.
-   • flicker during sketch upload and serial communication.
+   - indicate that the Arduino board is receiving power.
+   - flicker during sketch upload and serial communication.
 
 6. Digital INPUT/OUTPUT pins
-   • to read/write digital signal to digital  input/output components
-   • pins marked with ~ can produce Pulse Width Modulated (PWM) output with duty cycle between 0 (off) to 255 (on).
-   • The PWM square wave can be used to simulate "analogue" output (e.g., to control the brightness of LED or speed of motor).
+   - to read/write digital signal to digital  input/output components
+   - pins marked with ~ can produce Pulse Width Modulated (PWM) output with duty cycle between 0 (off) to 255 (on).
+   - The PWM square wave can be used to simulate "analogue" output (e.g., to control the brightness of LED or speed of motor).
 
 7. Analogue INPUT pins
-   • to read analogue input
-   • convert voltage signal from analogue sensor into useful digital signal via analogue-to-digital converter (ADC)
-   • can also function exactly like digital pins
+   - to read analogue input
+   - convert voltage signal from analogue sensor into useful digital signal via analogue-to-digital converter (ADC)
+   - can also function exactly like digital pins
 
 **Types of Inputs**
 
