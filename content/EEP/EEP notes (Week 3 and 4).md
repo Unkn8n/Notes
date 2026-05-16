@@ -9,60 +9,31 @@ Arduino is an open-source electronics platform based on easy-to-use hardware and
 Components of the Arduino UNO R3:
 
 1. ATmega328P Microcontroller
+
 2. Power IN: The power to the Arduino board can be supplied via
    - USB Connector (5V): also doubles as a serial port to communicate with the computer.
    - DC Power Jack (7-12V via AC to DC adapter or battery pack)
    - Vin/GND pins (7-12V with 9V battery)
+
 3. Power OUT
-
    • for powering external components
-
    • 5V and 3.3V pins (board regulated)
 
 4. Reset Button
-
    • to reset/restart the program.
 
 5. On-Board Built-In LED
-
-   • indicate that the Arduino board is
-
-   receiving power.
-
-   • flicker during sketch upload and serial
-
-   communication.
+   • indicate that the Arduino board is receiving power.
+   • flicker during sketch upload and serial communication.
 
 6. Digital INPUT/OUTPUT pins
-
-   • to read/write digital signal to digital
-
-   input/output components
-
-   • pins marked with ~ can produce Pulse
-
-   Width Modulated (PWM) output with
-
-   duty cycle between 0 (off) to 255 (on).
-
-   The PWM square wave can be used to
-
-   simulate "analogue" output (e.g., to
-
-   control the brightness of LED or speed
-
-   of motor).
+   • to read/write digital signal to digital  input/output components
+   • pins marked with ~ can produce Pulse Width Modulated (PWM) output with duty cycle between 0 (off) to 255 (on).
+   • The PWM square wave can be used to simulate "analogue" output (e.g., to control the brightness of LED or speed of motor).
 
 7. Analogue INPUT pins
-
    • to read analogue input
-
-   • convert voltage signal from analogue
-
-   sensor into useful digital signal via
-
-   analogue-to-digital converter (ADC)
-
+   • convert voltage signal from analogue sensor into useful digital signal via analogue-to-digital converter (ADC)
    • can also function exactly like digital pins
 
 **Types of Inputs**
@@ -88,13 +59,11 @@ These components output a variable voltage (0V to 5V). Connect them to analog pi
 
 
 
-#### Week 3B - Expanding Microcontroller Applications (pt1)
+### Week 3B - Expanding Microcontroller Applications (pt1)
 
 ### **Learning to read Photoresistor**
 
 A photoresistor is a light-sensitive type of variable resistor, sometimes called a LDR (light-dependent resistor), that provides analogue signal depending on light intensity.
-
-
 
 To make a circuit involving a Photoresistor, you'll need the following:
 
@@ -109,10 +78,6 @@ or use the thinkercad model
 
 [Circuit design Photoresistor with Arduino (Blocks) - Tinkercad](https://www.tinkercad.com/things/2Nc3pC5EE1Y-)
 
-
-
-or use the thinkercad model [https://www.tinkercad.com/things/2Nc3pC5EE1Y-photoresistor-with-arduino-blocks](https://www.tinkercad.com/things/2Nc3pC5EE1Y-photoresistor-with-arduino-blocks)
-
 Resistors come in different resistance values.
 
 ![image.jpeg](EEP%20notes.assets/image.jpeg)
@@ -124,20 +89,13 @@ Source: [https://www.calculator.net/resistor-calculator.html](https://www.calcul
 ![image.png](EEP%20notes.assets/image%20(7).png)
 
 Source: [https://techexplorations.com/guides/arduino/common-circuits/voltage-divider-photoresistor/](https://techexplorations.com/guides/arduino/common-circuits/voltage-divider-photoresistor/)
-
-
-
 Do note that the Photoresistor needs to be paired with another resistor to form a voltage divider.
-
-
 
 A LDR changes resistance depending on light:
 
 More light → lower resistance
 
 Less light → more resistance
-
-
 
 An Arduino analog pin measures voltage and not resistance, so we use a voltage divider to convert resistance changes into voltage changes.
 
@@ -199,8 +157,6 @@ Block code for thermometer system:
 
 Can be found if you click on the thinkercad link
 
-
-
 **Step 1 (Setting up and displaying temperature):**
 
 Set a baseline: This is where the program will compare the reading with.
@@ -243,20 +199,15 @@ Since the baseline is 40,
 
 The last block will be the wait block where it helps to manage the block code by ensuring that the display is updated every second and prevents the code from running too fast.
 
-
-
 If you're looking at the C++ codes, it's about the same and quite straightforward.
-
 
 
 Extra:
 
 [Sensor Calibration Techniques: Offset, Gain and Linearization - Zbotic](https://zbotic.in/sensor-calibration-techniques-offset-gain-and-linearization/#offset)
 
-#### Week 4 [HBL week]-  Expanding Microcontroller Applications (pt2)
+### Week 4 [HBL week]-  Expanding Microcontroller Applications (pt2)
 
 Lowkenuinely, I think can just follow the slides cuz ain no way im explaining allat.😭
-
-
 
 And that's it… imma sleep.

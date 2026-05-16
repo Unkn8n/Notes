@@ -23,8 +23,7 @@ Understanding these mechanisms is fundamental in engineering and physics educati
 - It enables controlled motion and force transmission in machines.
 - The choice of mechanism affects speed, efficiency, and complexity of the machine.
 - It often combines multiple machine elements to achieve specific motion or force characteristics.
-
-#### Classes of levers
+### Classes of levers
 
 ![Lever-1.jpg](EEP%20notes.assets/Lever-1.jpg)
 
@@ -44,27 +43,27 @@ A lever can also make the output move farther or faster than the input.
 
 Example: When you swing the rod or reel in, the small movements of your hands make the tip of the rod move a much larger distance and faster.
 
-## Types of levers
+### Types of levers
 
-### **Class 1 levers**
+#### **Class 1 levers**
 
-#### **Fulcrum Between effort and load**
+#### Fulcrum Between effort and load
 
 Class 1 levers have the fulcrum located between the applied effort and the load, allowing the direction of force to change.
 
-#### **Mechanical Advantage Variation**
+#### Mechanical Advantage Variation
 
 Adjusting the fulcrum's position closer to the load reduces required effort and increases mechanical advantage. When the fulcrum is equidistant from effort and load, equal force is applied, providing no mechanical advantage. If the fulcrum is closer to the load, less effort is needed to move it.
 
-#### **Common Examples**
+#### Common Examples
 
 Class 1 levers are commonly used to increase force, depending on fulcrum placement. Typical examples include pliers and seesaws, which demonstrate directional force change and control.
 
 
 
-### **Class 2 levers**
+### Class 2 levers
 
-#### **Class 2 lever characteristics**
+#### Class 2 lever characteristics
 
 Class 2 levers position the load between the fulcrum and effort, multiplying force and easing heavy lifting.
 
@@ -76,9 +75,9 @@ Examples: wheelbarrow, nutcracker, bottle opener
 
 
 
-### **Class 3 levers**
+### Class 3 levers
 
-#### **Class 3 lever characteristics**
+#### Class 3 lever characteristics
 
 Class 3 levers place effort between the fulcrum and load, enhancing speed and range of motion but reducing force advantage.
 
@@ -86,9 +85,7 @@ The effort arm is always shorter than the load arm.
 
 Examples: shovel, fishing rod, broom
 
-
-
-#### **How to choose the levers**
+#### How to choose the levers
 
 Selecting lever types depends on desired benefits: force multiplication, speed, or movement control.
 
@@ -101,9 +98,9 @@ Use the FLE rule where F is fulcrum, L is load, and E is effort.
 - **Class 3 (E is Middle):** The **Effort** (force) is in the centre.
    - *Example:* A **Fishing Rod**. Your "moving hand" pushes the middle of the rod, while the other hand stays still at the bottom.
 
-#### Types of gears
+### Types of gears
 
-# What are gears?
+#### What are gears?
 
 Gears are rotating mechanical components with teeth that mesh together to transmit motion and change torque.
 
@@ -121,7 +118,7 @@ Key benefits:
 
    • Enable precise control of movement.
 
-**Gear trains**
+#### Gear trains
 
 - A gear train consists of two or more gears meshed to transmit motion from one axis to another.
 - In all gear train systems, only one gear is powered.
@@ -130,11 +127,11 @@ Key benefits:
 
 Examples: Spur, Helical, and Bevel gears
 
-**TYPES OF GEARS**
+### Types of Gears
 
 Depending on the position of the shaft's axle holding the gears, gears can be arranged in:
 
-Parallel
+### Parallel
 
    • Spur Gears (Straight-Cut Gears)
 
@@ -142,17 +139,17 @@ Parallel
 
    • Rack and Pinion gears
 
-Intersecting
+### Intersecting
 
    • Bevel Gears
 
-Non-intersecting and non-parallel
+### Non-intersecting and non-parallel
 
    • Worm Gears
 
 ---
 
-# Parallel Gears
+## Parallel Gears
 
 **Spur gears**
 
@@ -186,7 +183,7 @@ A gear rack is a straight bar with evenly spaced teeth that converts rotational 
 
 ---
 
-# Intersecting gears
+## Intersecting gears
 
 **Bevel gears**
 
@@ -194,7 +191,7 @@ A gear rack is a straight bar with evenly spaced teeth that converts rotational 
 
 Bevel gears transmit motion between intersecting shafts, typically at 90 degrees, enabling directional change of rotation. They can be found in hand drills, differential gears in cars, and marine propeller drives.
 
-# Non-intersecting and non-parallel
+## Non-intersecting and non-parallel
 
 **Worm gears**
 
@@ -222,9 +219,9 @@ Source for image:
 
 [science.howstuffworks.com](https://science.howstuffworks.com/transport/engines-equipment/gear-ratio.htm)
 
-#### Chains and belts
+## Chains and belts
 
-#### Chains
+### Chains
 
 In a bicycle, a chain translates rotational force to the rear gear.
 
@@ -252,7 +249,7 @@ Disadvantages of Chain Drives
 
 
 
-#### Belts
+### Belts
 
 Belts are flexible loops that run over pulleys and transfer power between rotating shafts using friction. Unlike gear and chain drives, belt drives tolerate some misalignment between pulleys, making them more flexible in setup.
 
@@ -276,7 +273,7 @@ Disadvantages of Belt Drives
 
 • Cannot handle high torque application
 
-#### Pulleys
+### Pulleys
 
 There are three main types of pulleys: fixed, movable, and compound pulleys.
 
@@ -284,35 +281,29 @@ There are three main types of pulleys: fixed, movable, and compound pulleys.
 
 Source: https://engineeringlearn.com/types-of-pulley/
 
-#### **Fixed pulley**
+#### Fixed pulley
 
 Fixed pulleys do not move; they change the direction of force without reducing the effort required to lift a load.
 
 Example: Flagpole pulley system → You pull down to raise the flag
 
-
-
-#### **Movable pulley**
+#### Movable pulley
 
 Movable pulleys reduce effort needed by moving with the load and distributing weight across ropes.
 
 Example: Construction cranes → Reduces the force needed to lift heavy loads.
 
-
-
-#### **Compound pulley**
+#### Compound pulley
 
 Compound pulleys combine fixed and movable pulleys to significantly increase mechanical advantage for heavy lifting, greatly reducing the effort needed to lift heavy loads.
 
 Example: Block and tackle
 
-
-
 *This might help too
 
 [11 Examples of Pulley - [Explained with Pictures] - Engineering Learn](https://engineeringlearn.com/examples-of-pulley/)
 
-#### Types of linkages
+# Types of linkages
 
 There are five types of linkages: Bell Crank, Reverse Motion, Parallel Motion, Crank and Slider Mechanisms, and Four-bar. (Note: Treadle linkage is technically a four-bar variant.)
 
@@ -330,9 +321,7 @@ A joint is a connection between two or more links at their nodes that allows mot
 
 ![Screenshot 2026-04-30 173627.png](EEP%20notes.assets/Screenshot%202026-04-30%20173627.png)
 
-
-
-**Bell Crank linkages**
+#### Bell Crank linkages
 
 ![bell crank.png](EEP%20notes.assets/bell%20crank.png)
 
@@ -340,9 +329,7 @@ Bell crank linkages change the direction of motion by 90 degrees, enabling effic
 
 Example: Bicycle brakes - Pulling the brake lever moves the brake pads inward to stop the wheel
 
-
-
-**Reverse motion linkages**
+#### Reverse motion linkages
 
 ![reverse.png](EEP%20notes.assets/reverse.png)
 
@@ -350,9 +337,7 @@ Reverse motion linkages move connected parts in opposite directions simultaneous
 
 Example: clothes racks, scissor lift
 
-
-
-**Parallel motion linkages**
+#### Parallel motion linkages
 
 ![parallel.png](EEP%20notes.assets/parallel.png)
 
@@ -360,9 +345,7 @@ Parallel motion linkages keep parts moving together while maintaining their orie
 
 Example: multi-tier toolbox and car suspension system
 
-
-
-**Crank and Slider mechanisms**
+#### Crank and Slider mechanisms
 
 ![crank and slider.png](EEP%20notes.assets/crank%20and%20slider.png)
 
@@ -372,9 +355,7 @@ Example: Piston in an engine – Rotating crankshaft moves the piston up and dow
 
 ![image.png](EEP%20notes.assets/image%20(5).png)
 
-
-
-**Four-bar linkages**
+#### Four-bar linkages
 
 ![FourBarChain.png](EEP%20notes.assets/FourBarChain.png)
 
@@ -390,7 +371,7 @@ Sources for images:
 
 [Four Bar Chain - DT Online](https://wiki.dtonline.org/index.php/Four_Bar_Chain)
 
-**Conclusion**
+# Conclusion
 
 **Fundamentals of Mechanical Systems**
 
