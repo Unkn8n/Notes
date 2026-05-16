@@ -1,4 +1,4 @@
-# Week 3 and 4 : Expanding Microcontroller Applications
+# Expanding Microcontroller Applications
 
 ### What is Arduino?
 

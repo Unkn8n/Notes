@@ -1,4 +1,4 @@
-# Week 1 and 2 : Exploring Mechanisms in Everyday Machines
+# Exploring Mechanisms in Everyday Machines
 
 **Function of simple machines**
 

@@ -1,4 +1,1 @@
-# Welcome
-[[Engineering Exploration Project]]
-[[Interpreting Functions]]
-[[Programming notes]]
+![[WhatsApp Image 2026-05-04 at 7.31.22 PM.jpeg]]

@@ -1,6 +1,4 @@
-# Interpreting Functions
-
-#### Week 1 - Concept of Functions Domain and Range
+# Week 1 - Concept of Functions Domain and Range
 
 #### Concepts of Functions
 
@@ -32,11 +30,7 @@ Correspondences:
 
 With the definition of relation, all types of correspondences are considered a relation.
 
-
-
 A relation in which each element in the domain corresponds to exactly one element in the range is called a **function**.
-
-
 
 **Definition of a Function**
 
