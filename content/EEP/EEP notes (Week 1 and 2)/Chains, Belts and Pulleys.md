@@ -1,0 +1,170 @@
+## Chains and belts
+
+### Chains
+
+In a bicycle, a chain translates rotational force to the rear gear.
+
+The chain is made up of many small links connected by pins, making it strong and durable.
+
+This design allows it to efficiently transmit rotary motion between gears, especially over longer distances.
+
+![image.png](EEP%20notes.assets/image%20(2).png)
+
+Advantages of Chain Drives
+
+• No slippage = efficient power transmission
+
+• Suitable for high-torque applications
+
+• Durable
+
+
+
+Disadvantages of Chain Drives
+
+• Requires lubrication and maintenance
+
+• Can be noisy due to metal-on-metal contact
+
+
+
+### Belts
+
+Belts are flexible loops that run over pulleys and transfer power between rotating shafts using friction. Unlike gear and chain drives, belt drives tolerate some misalignment between pulleys, making them more flexible in setup.
+
+![image.png](EEP%20notes.assets/image%20(3).png)
+
+Source: [https://www.tec-science.com/mechanical-power-transmission/belt-drive/basics/](https://www.tec-science.com/mechanical-power-transmission/belt-drive/basics/)
+
+Advantages of Belt Drives
+
+• Quieter than chain drives
+
+• Lower cost and easy to replace
+
+• Low maintenance as no lubrication is required
+
+
+
+Disadvantages of Belt Drives
+
+• Slippage can occur = less efficient power transmission
+
+• Cannot handle high torque application
+
+### Pulleys
+
+There are three main types of pulleys: fixed, movable, and compound pulleys.
+
+![Types-of-Pulley.jpg.webp](EEP%20notes.assets/Types-of-Pulley.jpg.webp)
+
+Source: https://engineeringlearn.com/types-of-pulley/
+
+#### Fixed pulley
+
+Fixed pulleys do not move; they change the direction of force without reducing the effort required to lift a load.
+
+Example: Flagpole pulley system → You pull down to raise the flag
+
+#### Movable pulley
+
+Movable pulleys reduce effort needed by moving with the load and distributing weight across ropes.
+
+Example: Construction cranes → Reduces the force needed to lift heavy loads.
+
+#### Compound pulley
+
+Compound pulleys combine fixed and movable pulleys to significantly increase mechanical advantage for heavy lifting, greatly reducing the effort needed to lift heavy loads.
+
+Example: Block and tackle
+
+*This might help too
+
+[11 Examples of Pulley - [Explained with Pictures] - Engineering Learn](https://engineeringlearn.com/examples-of-pulley/)
+
+# Types of linkages
+
+There are five types of linkages: Bell Crank, Reverse Motion, Parallel Motion, Crank and Slider Mechanisms, and Four-bar. (Note: Treadle linkage is technically a four-bar variant.)
+
+#### What are linkages?
+
+A linkage is a system made up of links and joints used to transfer force or motion, such as connecting rods, cams, gears, and belts.
+
+Linkages can change direction of motion, control movement range, or amplify force.
+
+A link is a rigid part of the system that has at least two connection points.
+
+![image.png](EEP%20notes.assets/image%20(4).png)
+
+A joint is a connection between two or more links at their nodes that allows motion between them.
+
+![Screenshot 2026-04-30 173627.png](EEP%20notes.assets/Screenshot%202026-04-30%20173627.png)
+
+#### Bell Crank linkages
+
+![bell crank.png](EEP%20notes.assets/bell%20crank.png)
+
+Bell crank linkages change the direction of motion by 90 degrees, enabling efficient force transmission in mechanical systems.
+
+Example: Bicycle brakes - Pulling the brake lever moves the brake pads inward to stop the wheel
+
+#### Reverse motion linkages
+
+![reverse.png](EEP%20notes.assets/reverse.png)
+
+Reverse motion linkages move connected parts in opposite directions simultaneously.
+
+Example: clothes racks, scissor lift
+
+#### Parallel motion linkages
+
+![parallel.png](EEP%20notes.assets/parallel.png)
+
+Parallel motion linkages keep parts moving together while maintaining their orientation.
+
+Example: multi-tier toolbox and car suspension system
+
+#### Crank and Slider mechanisms
+
+![crank and slider.png](EEP%20notes.assets/crank%20and%20slider.png)
+
+Crank and slider mechanisms convert rotational motion into linear motion, with stroke length dependent on crank arm length.
+
+Example: Piston in an engine – Rotating crankshaft moves the piston up and down.
+
+![image.png](EEP%20notes.assets/image%20(5).png)
+
+#### Four-bar linkages
+
+![FourBarChain.png](EEP%20notes.assets/FourBarChain.png)
+
+Four-bar linkages provide versatile motion with many possible configurations, making them useful in a wide variety of mechanical design applications.
+
+![Screenshot 2026-04-30 174122.png](EEP%20notes.assets/Screenshot%202026-04-30%20174122.png)
+
+---
+
+Sources for images:
+
+[Linkages - Mechanical devices - AQA - GCSE Design and Technology Revision - AQA - BBC Bitesize](https://www.bbc.co.uk/bitesize/guides/zbt26yc/revision/3)
+
+[Four Bar Chain - DT Online](https://wiki.dtonline.org/index.php/Four_Bar_Chain)
+
+# Conclusion
+
+**Fundamentals of Mechanical Systems**
+
+Levers, gears, pulleys, and linkages are basic mechanical systems essential to machine functionality.
+
+**Advantages of Mechanical Systems**
+
+These systems improve force efficiency, change the direction of motion, and enhance speed and control.
+
+**Foundation for Advanced Engineering**
+
+Mastering these simple systems builds a strong foundation for understanding complex mechanical engineering concepts.
+
+**Relevance in Modern Technology**
+
+Simple mechanical principles continue to enable advanced machine performance in modern technology.
+
