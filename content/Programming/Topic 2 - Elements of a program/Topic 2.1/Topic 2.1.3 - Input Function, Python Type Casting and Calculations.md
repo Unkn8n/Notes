@@ -1,6 +1,6 @@
-## Input Function, Python Type Casting and Calculations
+# Input Function, Python Type Casting and Calculations
 
-### Input Functions
+## Input Functions
 
 Programs often require user input from the keyboard
 
@@ -20,7 +20,7 @@ Example:
 
 
 
-### Python Type Casting
+## Python Type Casting
 
 Type casting means changing from one data type to another.
 
@@ -54,7 +54,7 @@ if a = "10", "a" is a string
 
 The `int()` and `float()` only works if the argument that is being converted contains a numeric value. If not a `ValueError` type of error will occur and the program will stop.
 
-### Calculations
+## Calculations
 
 Basic Arithmetic Operators for Python
 

@@ -1,6 +1,6 @@
-## Comments and Variables
+# Comments and Variables
 
-### Comments
+## Comments
 
 "#" is a comment
 
@@ -14,7 +14,7 @@ Example:
 
 This is so collaborators understand what is going on in the code. It is a good practice to comment your codes incase you get lost on your own.
 
-### Variables
+## Variables
 
 A variable is a name that represents a storage location in the computer's memory.
 

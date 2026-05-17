@@ -1,4 +1,4 @@
-## Strings and String Literals
+# Strings and String Literals
 
 In Python, strings must be enclosed in quotation marks. You can enclose a string literal in single or double quotation marks.
 
