@@ -24,13 +24,13 @@ Understanding these mechanisms is fundamental in engineering and physics educati
 - It enables controlled motion and force transmission in machines.
 - The choice of mechanism affects speed, efficiency, and complexity of the machine.
 - It often combines multiple machine elements to achieve specific motion or force characteristics.
-### Classes of levers
+## Classes of levers
 
 ![Lever-1.jpg](EEP%20notes.assets/Lever-1.jpg)
 
 Source: [https://engineeringlearn.com/what-is-lever-types-uses-principle-examples/](https://engineeringlearn.com/what-is-lever-types-uses-principle-examples/)
 
-### Purpose of using a lever
+## Purpose of using a lever
 
 #### 1. Gain mechanical advantage (amplify force)
 
@@ -44,9 +44,9 @@ A lever can also make the output move farther or faster than the input.
 
 Example: When you swing the rod or reel in, the small movements of your hands make the tip of the rod move a much larger distance and faster.
 
-### Types of levers
+## Types of levers
 
-#### **Class 1 levers**
+### Class 1 levers
 
 #### Fulcrum Between effort and load
 
