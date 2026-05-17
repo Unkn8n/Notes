@@ -1,6 +1,6 @@
 ## Chains and belts
 
-## Chains
+### Chains
 
 In a bicycle, a chain translates rotational force to the rear gear.
 
@@ -28,7 +28,7 @@ Disadvantages of Chain Drives
 
 
 
-## Belts
+### Belts
 
 Belts are flexible loops that run over pulleys and transfer power between rotating shafts using friction. Unlike gear and chain drives, belt drives tolerate some misalignment between pulleys, making them more flexible in setup.
 
