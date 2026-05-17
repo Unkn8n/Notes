@@ -22,7 +22,7 @@ Python is a multi-purpose language with a simple, and beginner friendly syntax, 
      2. Buttons
      3. Menus
      4. Input Fields
-	    Example: Building a simple calculator app with buttons instead of typing commands
+		- Example: Building a simple calculator app with buttons instead of typing commands
 - Integrate easily with C/C++ and is lightweight^.
 
 	 -   This means Python can:
