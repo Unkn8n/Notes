@@ -89,7 +89,7 @@ Examples: shovel, fishing rod, broom
 
 Selecting lever types depends on desired benefits: force multiplication, speed, or movement control.
 
-Use the FLE rule where F is fulcrum, L is load, and E is effort.
+Use the mnemonic 'FLE' where F is fulcrum, L is load, and E is effort.
 
 - **Class 1 (F is Middle):** The **Fulcrum** (pivot) is in the centre.
    - *Example:* A **Seesaw**. The pivot sits between the two seats.
