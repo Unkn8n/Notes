@@ -1,16 +1,16 @@
-## Data types
+# Data types
 
 There are 4 different types of data types, Boolean, Number, Sequence and Mapping.
 
 
 
-### Boolean Data Types
+## Boolean Data Types
 
 Boolean is basically true and false.
 
 
 
-### Numeric Data Types
+## Numeric Data Types
 
 For numeric data types, there is the integer and float.
 
@@ -26,7 +26,7 @@ The difference between the two is that integers are whole numbers while floats a
 
 
 
-### Sequence Data Types
+## Sequence Data Types
 
 There are 3 difference sequence data types, String, List and Tuple.
 
@@ -77,7 +77,7 @@ Do note that the first position in a list is 0 not 1.
 
    `newTuple = (1 ,2, 3, 4, 5)`
 
-### Mapping
+## Mapping
 
 #### Dictionary
 
@@ -103,7 +103,7 @@ Output:
 
 
 
-### Mixing Data Types
+## Mixing Data Types
 
 Python allows mixing data types in certain cases, such as concatenating strings or adding integers and floating-point numbers.
 
