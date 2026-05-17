@@ -1,5 +1,3 @@
-## Topic 2.2
-
 ## print() Function
 
 ![image.png](Programming%20notes.assets/image%20(29).png)
