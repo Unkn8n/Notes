@@ -1,6 +1,6 @@
-### Gears
+## Gears
 
-#### What are gears?
+### What are gears?
 
 Gears are rotating mechanical components with teeth that mesh together to transmit motion and change torque.
 
@@ -18,7 +18,7 @@ Key benefits:
 
    • Enable precise control of movement.
 
-#### Gear trains
+### Gear trains
 
 - A gear train consists of two or more gears meshed to transmit motion from one axis to another.
 - In all gear train systems, only one gear is powered.
@@ -27,7 +27,7 @@ Key benefits:
 
 Examples: Spur, Helical, and Bevel gears
 
-### Types of Gears
+## Types of Gears
 
 Depending on the position of the shaft's axle holding the gears, gears can be arranged in:
 
