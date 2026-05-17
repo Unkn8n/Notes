@@ -1,6 +1,6 @@
-## Topic 2.1
+# Topic 2.1
 
-### Strings and String Literals
+## Strings and String Literals
 
 In Python, strings must be enclosed in quotation marks. You can enclose a string literal in single or double quotation marks.
 
@@ -28,11 +28,9 @@ You can also add a "\\" to tell python that the apostrophe is part of the text
 
 If you do it wrongly, there will be SyntexError.
 
+## Comments and Variables
 
-
-#### Comments and Variables
-
-#### Comments
+### Comments
 
 "#" is a comment
 
@@ -46,7 +44,7 @@ Example:
 
 This is so collaborators understand what is going on in the code. It is a good practice to comment your codes incase you get lost on your own.
 
-#### Variables
+### Variables
 
 A variable is a name that represents a storage location in the computer's memory.
 
@@ -80,9 +78,9 @@ You can reassign existing variables to a new value, similar to how you would cre
 
 
 
-#### Input Function, Python Type Casting and Calculations
+## Input Function, Python Type Casting and Calculations
 
-**Input Functions**
+### Input Functions
 
 Programs often require user input from the keyboard
 
@@ -102,7 +100,7 @@ Example:
 
 
 
-#### Python Type Casting
+### Python Type Casting
 
 Type casting means changing from one data type to another.
 
@@ -136,7 +134,7 @@ if a = "10", "a" is a string
 
 The `int()` and `float()` only works if the argument that is being converted contains a numeric value. If not a `ValueError` type of error will occur and the program will stop.
 
-#### Calculations
+### Calculations
 
 Basic Arithmetic Operators for Python
 
@@ -160,19 +158,19 @@ Python also has built-in support for more complex math operations and functions 
 
 ![image.png](Programming%20notes.assets/image%20(10).png)
 
-#### Data types
+## Data types
 
 There are 4 different types of data types, Boolean, Number, Sequence and Mapping.
 
 
 
-#### **Boolean Data Types**
+### Boolean Data Types
 
 Boolean is basically true and false.
 
 
 
-#### **Numeric Data Types**
+### Numeric Data Types
 
 For numeric data types, there is the integer and float.
 
@@ -188,13 +186,13 @@ The difference between the two is that integers are whole numbers while floats a
 
 
 
-#### **Sequence Data Types**
+### Sequence Data Types
 
 There are 3 difference sequence data types, String, List and Tuple.
 
 
 
-#### **String**
+#### String
 
 A string is a sequence of characters used to represent textual data. It can include letters, numbers, symbols and spaces.
 
@@ -206,7 +204,7 @@ You can display a string literal with the `print()` function:
 
 
 
-#### **List**
+#### List (Topic 5.1)
 
 A list is a collection which is ordered and changeable. It is used to store multiple items in a single variable. It also allows duplicate members.
 
@@ -228,7 +226,7 @@ Do note that the first position in a list is 0 not 1.
 
 
 
-#### **Tuple**
+#### Tuple (Topic 5.1)
 
 - Tuples are like lists.
 - Tuples can't be manipulated like lists (no append, extend or removal, basically as long as it affects the value in the tuple, it can't be done).
@@ -239,9 +237,9 @@ Do note that the first position in a list is 0 not 1.
 
    `newTuple = (1 ,2, 3, 4, 5)`
 
-#### Mapping
+### Mapping
 
-**Dictionary**
+#### Dictionary
 
 - Dictionaries are used to store data values in key:value pairs.
 - The main operation of a dictionary is to extract a value based on the key's name.
@@ -265,7 +263,7 @@ Output:
 
 
 
-**Mixing Data Types**
+### Mixing Data Types
 
 Python allows mixing data types in certain cases, such as concatenating strings or adding integers and floating-point numbers.
 

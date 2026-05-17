@@ -1,6 +1,6 @@
-## Topic 1.1
+# Topic 1.1
 
-### Main components of a computer system
+## Main components of a computer system
 
 ![image.png](Programming%20notes.assets/image.png)
 
@@ -30,7 +30,7 @@ Output unit →This is where the results appear
 
 Example: Monitor, printer, speakers
 
-### Language Translators
+## Language Translators
 
 **System Software** - It manages and controls computer hardware, provides a platform for running application software, and acts as a bridge between user-written programs and the hardware.
 
@@ -50,7 +50,7 @@ Unlike a compiler, an interpreter does not produce a separate executable file. I
 
 Example: Programs written in Python language are interpreted
 
-### Why python
+## Why python
 
 Python is a multi-purpose language with a simple, and beginner friendly syntax, created by Guido van Rossum and is first released in 1991.
 
