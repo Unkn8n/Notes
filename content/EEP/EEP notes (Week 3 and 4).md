@@ -89,6 +89,7 @@ Source: [https://www.calculator.net/resistor-calculator.html](https://www.calcul
 ![image.png](EEP%20notes.assets/image%20(7).png)
 
 Source: [https://techexplorations.com/guides/arduino/common-circuits/voltage-divider-photoresistor/](https://techexplorations.com/guides/arduino/common-circuits/voltage-divider-photoresistor/)
+
 Do note that the Photoresistor needs to be paired with another resistor to form a voltage divider.
 
 A LDR changes resistance depending on light:
