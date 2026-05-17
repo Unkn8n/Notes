@@ -1,4 +1,4 @@
-## print() Function
+# print() Function
 
 ![image.png](Programming%20notes.assets/image%20(29).png)
 
@@ -8,7 +8,7 @@ The use of F-strings are for clarity and efficiency.
 
 In python, print() is used to display output on the screen.
 
-### F-strings (Python 3.6)
+## F-strings (Python 3.6)
 
 **What is a F-string?**
 
@@ -66,7 +66,7 @@ When combining multiple specifiers, they must follow a specific order inside the
 
 `{ variable : [fill] [alignment] [width] [comma] [.precision] [type] }`
 
-### .format() method (Python 3.0)
+## .format() method (Python 3.0)
 
 - provides more flexibility
 - create strings with placeholders enclosed in curly braces.
@@ -87,7 +87,7 @@ Just like F-strings, you can use a colon : inside the braces to apply "styles".
 
 ![image.png](Programming%20notes.assets/image%20(28).png)
 
-### String formatting "%" operator (Python 2.0 and older)
+## String formatting "%" operator (Python 2.0 and older)
 
 `%s` stands for string and `%d` stands for decimal integer
 
