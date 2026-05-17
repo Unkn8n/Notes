@@ -98,7 +98,7 @@ Use the mnemonic 'FLE' where F is fulcrum, L is load, and E is effort.
 - **Class 3 (E is Middle):** The **Effort** (force) is in the centre.
    - *Example:* A **Fishing Rod**. Your "moving hand" pushes the middle of the rod, while the other hand stays still at the bottom.
 
-### Types of gears
+### Gears
 
 #### What are gears?
 
