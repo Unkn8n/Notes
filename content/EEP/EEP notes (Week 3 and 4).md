@@ -61,7 +61,7 @@ These components output a variable voltage (0V to 5V). Connect them to analog pi
 
 ### Week 3B - Expanding Microcontroller Applications (pt1)
 
-### **Learning to read Photoresistor**
+#### Learning to read Photoresistor
 
 A photoresistor is a light-sensitive type of variable resistor, sometimes called a LDR (light-dependent resistor), that provides analogue signal depending on light intensity.
 
