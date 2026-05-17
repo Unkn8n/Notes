@@ -16,21 +16,23 @@ Python is a multi-purpose language with a simple, and beginner friendly syntax, 
       - Update or delete records
       - E.g. Using python to store user information in a database like SQLite or MySQL
 - Graphical User Interface (GUI) Programming
-      - Python can be used to create applications with:
+
+  - Python can be used to create applications with:
          1. Windows
          2. Buttons
          3. Menus
          4. Input Fields
-         - Example: Building a simple calculator app with buttons instead of typing commands
-- Integrate easily with C/C++ and is lightweight
+	        Example: Building a simple calculator app with buttons instead of typing commands
+- Integrate easily with C/C++ and is lightweight^.
 
-      -   This means Python can:
+ -   This means Python can:
          1. Work together with C/C++ codes
          2. Use C/C++ for faster performance when needed
-      - "Lightweight" here usually means:
-         1. Python itself is simple and not bulky
-         2. Easy to extend with faster languages
-         - Example: Heavy calculations done in C, while Python handles the main program
+
+^"Lightweight" here usually means:
+2. Python itself is simple and not bulky
+3. Easy to extend with faster languages
+     - Example: Heavy calculations done in C, while Python handles the main program
 
 
 
