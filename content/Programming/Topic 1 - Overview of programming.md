@@ -1,6 +1,6 @@
 ## Topic 1.1
 
-##### Main components of a computer system
+### Main components of a computer system
 
 ![image.png](Programming%20notes.assets/image.png)
 
@@ -12,25 +12,25 @@ Source: [https://www.educba.com/components-of-computers/](https://www.educba.com
 
 Input → This is where you give instructions/data to the computer
 
-         Example: Keyboard, mouse, microphone
+Example: Keyboard, mouse, microphone
 
 Central Processing Unit (CPU) → The CPU has 3 main parts
 
-               - Memory unit → Stores small, temporary data the CPU is actively using
-               - Control unit (CU) → It's like the "manager", it controls the flow of data between the CPU, memory and input/output
-               - Arithmetic Logic Unit (ALU) → As the name suggests, it handles both Arithmetic (+, -, ÷, **×**) and Logic [comparisons (>, <, =) and true/false decisions]
+- Memory unit → Stores small, temporary data the CPU is actively using
 
-Main Memory → Basically RAM, it holds data/programs that are currently being
+- Control unit (CU) → It's like the "manager", it controls the flow of data between the CPU, memory and input/output
 
-            used and is temporary
+ - Arithmetic Logic Unit (ALU) → As the name suggests, it handles both Arithmetic (+, -, ÷, **×**) and Logic [comparisons (>, <, =) and true/false decisions]
+
+Main Memory → Basically RAM, it holds data/programs that are currently being used and is temporary
 
 Secondary Storage → This is your SSD/HDD, it stores your files permanently.
 
 Output unit →This is where the results appear
 
-         Example: Monitor, printer, speakers
+Example: Monitor, printer, speakers
 
-#### Language Translators
+### Language Translators
 
 **System Software** - It manages and controls computer hardware, provides a platform for running application software, and acts as a bridge between user-written programs and the hardware.
 
@@ -50,7 +50,7 @@ Unlike a compiler, an interpreter does not produce a separate executable file. I
 
 Example: Programs written in Python language are interpreted
 
-#### Why python
+### Why python
 
 Python is a multi-purpose language with a simple, and beginner friendly syntax, created by Guido van Rossum and is first released in 1991.
 
@@ -87,7 +87,7 @@ Python is a multi-purpose language with a simple, and beginner friendly syntax, 
 
 ## Topic 1.2 Computational Thinking
 
-#### Flowchart
+### Flowchart
 
 Why and what is a flowchart
 

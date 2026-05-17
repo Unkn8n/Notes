@@ -15,7 +15,6 @@ You may click the "tab" key for quick completion of the code.
 (Not always correct so do double check)
 
 
-
 To include a single quote in a string literal, enclose the string in double quotes.
 
 Conversely, use single quotes if the string contains double quotes.
