@@ -40,7 +40,7 @@ Components of the Arduino UNO R3:
 
 1. Digital Inputs
 
-These components send a `HIGH` or `LOW` signal. Connect them to digital pins (2–13) and use `digitalRead()` or specific libraries.
+These components send a `HIGH` or `LOW` signal. Connect them to digital pins (0–13) and use `digitalRead()` or specific libraries.
 
 - **Push-button:** Sends a `HIGH` or `LOW` state depending on whether it is pressed.
 - **Touch Sensor:** Acts like a push-button but triggers when a finger alters capacitance.
