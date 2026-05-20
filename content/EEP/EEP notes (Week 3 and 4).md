@@ -27,13 +27,13 @@ Components of the Arduino UNO R3:
    - flicker during sketch upload and serial communication.
 
 6. Digital INPUT/OUTPUT pins
-   - to read/write digital signal to digital  input/output components
+   - to read/write digital signal to digital input/output components
    - pins marked with ~ can produce Pulse Width Modulated (PWM) output with duty cycle between 0 (off) to 255 (on).
-   - The PWM square wave can be used to simulate "analogue" output (e.g., to control the brightness of LED or speed of motor).
+   - The PWM square wave can be used to simulate "analog" output (e.g., to control the brightness of LED or speed of motor).
 
-7. Analogue INPUT pins
-   - to read analogue input
-   - convert voltage signal from analogue sensor into useful digital signal via analogue-to-digital converter (ADC)
+1. Analog INPUT pins
+   - to read analog input
+   - convert voltage signal from analog sensor into useful digital signal via analog-to-digital converter (ADC)
    - can also function exactly like digital pins
 
 **Types of Inputs**
