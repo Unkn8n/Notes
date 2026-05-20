@@ -55,7 +55,7 @@ These components output a variable voltage (0V to 5V). Connect them to analog pi
 
 - **Potentiometer:** A manual dial that alters resistance to change the input voltage level.
 - **Photoresistor:** Changes electrical resistance based on light levels to measure brightness.
-- **Water Level Sensor:** Uses exposed trace lines to measure electrical conductivity based on water height.
+- **Water Level Sensor:** Measures conductivity between probes and outputs an analog voltage level
 
 
 
