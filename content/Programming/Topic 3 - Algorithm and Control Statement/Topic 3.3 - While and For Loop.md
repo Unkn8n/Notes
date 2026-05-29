@@ -178,7 +178,7 @@ The inner loop will be executed for each iteration of the outer loop.
 #### How it works:
 - The program first encounters the outer loop, executing the first iteration.
 - The first iteration triggers the inner nested loop which then runs to completion.
-- Then the program returns back to the top of the outer loop, completing the second iteration and then triggering the nested loop again.
+- Then the program returns back to the top of the outer loop, completing the second iteration and then triggering the nested loop again. 
 - The nested loop runs to completing and the program returns back to the top of the outer loop until the sequence is completed.
 
 ```
